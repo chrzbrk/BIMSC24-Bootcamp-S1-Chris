@@ -1,0 +1,21 @@
+div{
+    background-color:aqua;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+
+#navbar{
+    background-color:powderblue;
+    font-size: 20px;
+}
+
+#sidebar{
+    background-color:blueviolet;
+    font-size: 20px;
+}
+
+#main{
+    background-color:hotpink;
+    font-size: 20px;
+}
